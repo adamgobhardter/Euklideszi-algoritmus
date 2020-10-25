@@ -1,0 +1,1 @@
+# Euklideszi-algoritmus
